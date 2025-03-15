@@ -6,7 +6,7 @@
 
 • 🎓 After I graduate my goal is to start a successful career as a web developer possibly even a software engineer at a relatively known tech company.
 
-• 💻 When it comes to coding, my passion is to learn new programming languages as well as to brush up on my coding skills in the languages I have experience in being Python, C++, and SQL in my free time.
+• 💻 When it comes to coding, my passion is to learn new programming languages as well as to brush up on my coding skills in my free time as I like to strengthen my knowledge in Python, Java, and SQL.
 
 • ⚡ The hobbies I enjoy the most are coding, drawing, painting, and listening to music.
 
