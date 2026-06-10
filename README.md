@@ -4,7 +4,7 @@
 
 ✍🏽 If you’d like to reach out, my contact information is Samanthaorr4@gmail.com and www.linkedin.com/in/samantha-orr-b97aa52b9.
 
-📚 I’ve been working on a personal portfolio website for the past six months, and it is still a work in progress, but it can be viewed here https://saorr2.github.io/01-prj-personal-site/#projects.
+📚 I’ve been working on a personal portfolio website for the past six months, and it is still a work in progress, but it can be viewed here https://saorr2.github.io/01-prj-personal-site/#projects. However, below in the pinned section are a few projects I’ve created and am very proud of!
 
 💻 For coding languages, I am proficient in HTML, CSS, and vanilla JavaScript. I am passionate about web development, and in my free time, I enjoy deepening my understanding of various coding languages such as Python, Java, and SQL. 
 
