@@ -2,7 +2,7 @@
 
 🌱 I'm Sam, a front-end web developer based in Georgia.
 
-✍🏽 If you’d like to reach out, my contact information is Samanthaorr4@gmail.com and in/samantha-orr-b97aa52b9.
+✍🏽 If you’d like to reach out, my contact information is Samanthaorr4@gmail.com and www.linkedin.com/in/samantha-orr-b97aa52b9.
 
 📚 I’ve been working on a personal portfolio website for the past six months, and it is still a work in progress, but it can be viewed here https://saorr2.github.io/01-prj-personal-site/#projects.
 
