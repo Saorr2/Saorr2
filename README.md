@@ -2,13 +2,12 @@
 
 🌱 I'm Sam, a front-end web developer based in Georgia.
 
-📚 I'm currently studying Graphic Information Technology (Full-Stack Web Development) at Arizona State University. I am focusing on front-end and back-end website along with application development.
+✍🏽 If you’d like to reach out, my contact information is Samanthaorr4@gmail.com and in/samantha-orr-b97aa52b9.
 
-🎓 After I graduate my goal is to start a successful career as a web developer possibly even a software engineer at a relatively known tech company.
+📚 I’ve been working on a personal portfolio website for the past six months, and it is still a work in progress, but it can be viewed here https://saorr2.github.io/01-prj-personal-site/#projects.
 
- 💻 When it comes to coding, my passion is to learn new programming languages and to brush up on my coding skills in my free time. As I like to strengthen my knowledge of Python, JavaScript, Java, and SQL.
+💻 For coding languages, I am proficient in HTML, CSS, and vanilla JavaScript. I am passionate about web development, and in my free time, I enjoy deepening my understanding of various coding languages such as Python, Java, and SQL. 
 
-⚡ The hobbies I enjoy the most are coding, drawing, painting, and listening to music.
+⚡ My hobbies and interests consist of photography, drawing, coding, and listening to music.
 
-
-
+🎓 My goal after graduation is to continue strengthening my skills as a web developer and learn as much new information as I can. So I will benefit myself by finding a job at a relatively well-known technology company to secure a role as a web developer.
