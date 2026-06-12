@@ -44,8 +44,8 @@ My main focus and overall goal were to redesign the company’s website with a s
 - JavaScript
 
 ## Highlighted Project Features:
-- Light and dark mode feature for user to toggle their preferred interface.
-- A product cart feature, allowing the user to add products to their cart and it adds the total together, and allows the user to check out by reflecting their total and a thank you message for their purchase.
+- Light and dark mode feature for user to toggle their preferred interface with a sun and moon icon
+- A product cart feature, allowing the user to add products to their cart and it adds the total together, and allows the user to check out by reflecting their total and a thank you message for their purchase
 
 ## Project Links:
 - GitHub Repository:
@@ -66,8 +66,9 @@ My main focus and overall goal were to redesign the brand’s website with a min
 
 ## Highlighted Project Features:
 - Image carousel with controls
+- jQuery UI collapsable accordion displaying brand information
 - Postman API displaying three products each time the page loads
-- An input section allowing the user to store their name in web storage, and it displays on the screen to the user.
+- An input section allowing the user to store their name in web storage, and it displays on the screen to the user
 
 ## Project Links:
 - GitHub Repository:
