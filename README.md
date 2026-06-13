@@ -12,9 +12,9 @@ I'm very passionate about creating accessible, fully functional, responsive, and
 For coding languages, I am proficient in HTML, CSS, and vanilla JavaScript. I am passionate about web development, and in my free time, I enjoy deepening my understanding of various coding languages such as Python, Java, and SQL, as these are the current languages I am learning.
 
  ## ✍🏽 Contact Me
-- Personal Email
-- GitHub
-- LinkedIn
+- Samanthaorr4@gmail.com
+- https://github.com/Saorr2 
+- www.linkedin.com/in/samantha-orr-b97aa52b9
 
 ## 🎓 Goals
 My goal after graduation is to continue strengthening my skills as a web developer and learn as much new information as I can. So I will benefit myself by finding a job at a relatively well-known technology company to secure a role as a web developer. My main focus after graduating will be to dedicate my time to earning certifications through web development programs. To strengthen and hone my skills as a full-stack web developer.
