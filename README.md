@@ -45,7 +45,7 @@ My main focus and overall goal were to redesign the company’s website with a s
 
 ## Highlighted Project Features:
 - Light and dark mode feature for user to toggle their preferred interface with a sun and moon icon
-- A product cart feature, allowing the user to add products to their cart and it adds the total together, and allows the user to check out by reflecting their total and a thank you message for their purchase
+- A product cart feature, allowing the user to add products to their cart, and it adds the total together, and allows the user to check out by reflecting their total and a thank you message for their purchase
 
 ## Project Links:
 - GitHub Repository:
